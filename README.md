@@ -1,3 +1,3 @@
 # maket
-Maket for IGUMO'23
+Maket for IGUMO'23\n
 Папка с файлами и зип файл ничем не отличаются :)
